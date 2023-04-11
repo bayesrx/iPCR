@@ -14,5 +14,6 @@
 #   Test Package:              'Cmd + Shift + T'
 
 hello <- function(x) {
-  x*3
+  return(x*3)
 }
+
